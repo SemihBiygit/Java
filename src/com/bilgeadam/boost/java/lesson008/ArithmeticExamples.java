@@ -16,5 +16,6 @@ public class ArithmeticExamples {
 		x = scanner.nextInt();
 		System.out.println(++x);
 	
+		scanner.close();
 	}
 }

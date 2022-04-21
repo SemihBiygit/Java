@@ -18,6 +18,7 @@ public class ArithmeticExamples2 {
 		System.out.println("div = " + (x/y));
 		System.out.println("mod = " + (x%y));
 		
+		scanner.close();
 		
 }
 }

@@ -22,7 +22,7 @@ public class HomeWork2 {
 		priceWithoutVAT = scanner.nextDouble();
 		rawPrice = scanner.nextDouble();
 
-	
+	scanner.close();
 		
 	}
 

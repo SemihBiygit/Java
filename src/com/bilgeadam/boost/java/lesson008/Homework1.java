@@ -19,7 +19,7 @@ public class Homework1 {
 		f = (c * 9 / 5) + 32;
 
 		System.out.println("Fahrenheit Temperature = " + f);
-
+		scanner.close();
 	
 	}
 

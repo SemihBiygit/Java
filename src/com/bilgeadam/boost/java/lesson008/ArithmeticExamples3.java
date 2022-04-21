@@ -16,6 +16,6 @@ public class ArithmeticExamples3 {
 		c = scanner.nextInt();
 		
 		System.out.println("Conclusion = "+a*(b+c));
-		
+		scanner.close();
 	}
 }

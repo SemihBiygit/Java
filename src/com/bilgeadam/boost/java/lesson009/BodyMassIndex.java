@@ -23,7 +23,7 @@ public class BodyMassIndex {
 	
 	System.out.println("Your BMI = "+bmi);
 	
-	if(gender.equals("F")) {
+	if(gender.equalsIgnoreCase("F")) {
 		if(bmi<19) {
 			System.out.println("Slim");
 		}else if(bmi<24) {
