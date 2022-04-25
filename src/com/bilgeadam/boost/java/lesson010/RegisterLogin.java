@@ -38,7 +38,7 @@ public class RegisterLogin {
 			default:
 				break;
 			}
-		}while (true);
+			}while (true);
 				
 	}
 
