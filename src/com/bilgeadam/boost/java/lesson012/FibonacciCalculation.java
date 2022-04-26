@@ -7,12 +7,12 @@ public class FibonacciCalculation {
 		long start = System.nanoTime();
 		double fib = calculateClassicalFibonacci(number);
 		long stop = System.nanoTime();
-		System.out.println("Fibonacci of " + number + " = " + fib + "'s"+ (stop-start)+ "nanoseconds");
+		System.out.println("Fibonacci of " + number + " = " + fib + " 's "+ (stop-start)+ " nanoseconds");
 	}
 
 	private static double calculateClassicalFibonacci(int number) {
 		long n1 = 0;
-		long n2 = 0;
+		long n2 = 1;
 		long nth = 0;
 		
 		for (int i = 1; i < number; ++i) {
