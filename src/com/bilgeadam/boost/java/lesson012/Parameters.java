@@ -5,9 +5,15 @@ public class Parameters {
 	public static void main(String[] args) {
 		
 		System.out.println("3 + 2 = " + add(3,2));
+		System.out.println("3 + 2 + 15 = " + add(3,2,15));
 		System.out.println("3 * 2 = " + multiply(3,2));
 		System.out.println("3 squared is = " + quadrat(3));
 		
+	}
+
+	private static int add(int a, int b, int c) {
+
+		return add(a,b)+c;
 	}
 
 	private static int quadrat(int a) {
