@@ -2,8 +2,8 @@ package com.bilgeadam.boost.java.lesson013;
 
 public class GettersSetters {
 
-	String name;
-	String lastname;
+	private String name;
+	private String lastname;
 	
 	public String getLastname() {
 		return lastname;
