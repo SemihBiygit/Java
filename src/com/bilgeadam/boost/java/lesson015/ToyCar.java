@@ -21,6 +21,7 @@ public class ToyCar {
 	}
 	
 	
+	
 	void moveOneMeterForward() {
 		if(batteryCapacity<=0) {
 			remainingBattery();
