@@ -61,7 +61,7 @@ public class Printer {
 	}
 
 	private boolean isPaperAvailable() {
-		return (this.numPaper/2) > 0;  //bir yağrağa bir veya iki sayfa basılabilir(duplex olup olmamasına bağlı)
+		return (this.numPaper/2) > 0;  //bir yaprağa bir veya iki sayfa basılabilir(duplex olup olmamasına bağlı)
 	}									// o yüzden yüklenen sayfa adedini 2 ile çarpmıştık.
 
 	private void endPrintJob() {
