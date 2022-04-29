@@ -7,7 +7,8 @@ public class PersonTest {
 	public static void main(String[] args) {
 			Person person = new Person();
 			Scanner scanner = new Scanner(System.in);
-			Person person1 =new Person("sami","biygit","m",24);
+			Person person1 =new Person("sami","biygit","m",24); //constructor ile oluşturulan person
+			
 			
 			
 			System.out.println("First name: ");
@@ -30,7 +31,7 @@ public class PersonTest {
 			person2.setAge(25);
 			
 			System.out.println(person); //to string ile yazıldı
-			System.out.println(person1);
+			System.out.println(person1); //to string ile constructor methodu yazıldı
 			
 	}
 

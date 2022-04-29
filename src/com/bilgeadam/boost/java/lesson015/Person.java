@@ -8,8 +8,8 @@ public class Person {
 	private int age;
 	
 	
-	
-	public Person() { //constructor 
+	//constructor 
+	public Person() { 
 	
 	}
 	
@@ -22,12 +22,10 @@ public class Person {
 		this.age = age;
 	}
 
-
-
-
 	void personInfo() {
 		System.out.println("--Person Info--\nFirst Name : "+firstName+"\nLast Name : "+lastName+" \nGender : "+gender+"\nAge : "+age);
 	}
+	
 	
 	
 	public String getFirstName() {
