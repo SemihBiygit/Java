@@ -1,11 +1,11 @@
-package com.bilgeadam.boost.java.lesson019.model.product;
+package com.bilgeadam.boost.java.lesson019.product;
 
 import java.time.LocalDate;
 
-import com.bilgeadam.boost.java.lesson019.model.person.Costumer;
-import com.bilgeadam.boost.java.lesson019.model.person.Employee;
-import com.bilgeadam.boost.java.lesson019.model.person.EmployeePosition;
-import com.bilgeadam.boost.java.lesson019.model.person.Person;
+import com.bilgeadam.boost.java.lesson019.person.Costumer;
+import com.bilgeadam.boost.java.lesson019.person.Employee;
+import com.bilgeadam.boost.java.lesson019.person.EmployeePosition;
+import com.bilgeadam.boost.java.lesson019.person.Person;
 
 public class MyMarket {
 

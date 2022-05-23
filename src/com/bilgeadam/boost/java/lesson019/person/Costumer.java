@@ -1,4 +1,4 @@
-package com.bilgeadam.boost.java.lesson019.model.person;
+package com.bilgeadam.boost.java.lesson019.person;
 /*
  * Müşteri numarası CST-001
  */

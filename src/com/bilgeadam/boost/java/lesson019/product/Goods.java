@@ -1,4 +1,4 @@
-package com.bilgeadam.boost.java.lesson019.model.product;
+package com.bilgeadam.boost.java.lesson019.product;
 
 import java.time.LocalDate;
 
