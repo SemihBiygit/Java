@@ -1,0 +1,5 @@
+In this tutorial we are going to take a first look at the FileReader and BufferedReader etc..
+
+Semih Biygit 25
+
+www.github.com/semihbiygit
