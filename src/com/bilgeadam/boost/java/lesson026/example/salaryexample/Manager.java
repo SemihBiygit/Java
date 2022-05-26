@@ -4,7 +4,6 @@ public class Manager extends Employee {
 
 	public Manager(String firstName, String lastName, String job, double salary) {
 		super(firstName, lastName, job, salary);
-		// TODO Auto-generated constructor stub
 	}
 
 	@Override

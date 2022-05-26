@@ -4,7 +4,6 @@ public class Nurse extends Employee {
 
 	public Nurse(String firstName, String lastName, String job, double salary) {
 		super(firstName, lastName, job, salary);
-		// TODO Auto-generated constructor stub
 	}
 
 	@Override
