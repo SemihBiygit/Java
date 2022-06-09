@@ -1,6 +1,6 @@
-package com.bilgeadam.boost.java.testpackage.outside;
+package com.bilgeadam.boost.java.lesson014Test.outside;
 
-import com.bilgeadam.boost.java.testpackage.Test;
+import com.bilgeadam.boost.java.lesson014Test.Test;
 
 public class OutsideAccess extends Test {
 

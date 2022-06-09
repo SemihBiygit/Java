@@ -1,4 +1,4 @@
-package com.bilgeadam.boost.java.testpackage.outside;
+package com.bilgeadam.boost.java.lesson014Test.outside;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.bilgeadam.boost.java.lesson028.furnitureExample;
+package com.bilgeadam.boost.java.lesson028;
 
 public enum Color {
 	GRAY("gray"), BLACK("black"),WHITE("white");

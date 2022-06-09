@@ -1,4 +1,4 @@
-package com.bilgeadam.boost.java.testpackage;
+package com.bilgeadam.boost.java.lesson014Test;
 
 import com.bilgeadam.boost.java.lesson014.StaticTest;
 

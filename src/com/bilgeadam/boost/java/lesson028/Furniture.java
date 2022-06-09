@@ -1,4 +1,4 @@
-package com.bilgeadam.boost.java.lesson028.furnitureExample;
+package com.bilgeadam.boost.java.lesson028;
 
 import java.time.LocalDate;
 
